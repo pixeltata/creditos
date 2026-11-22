@@ -1,2 +1,3 @@
-# creditos
-Image and music credits for MyTeacherQuiz videos
+# Credits
+
+Image and music credits for MyTeacherQuiz videos: https://pixeltata.github.io/creditos/
